@@ -22,3 +22,8 @@ sqrt(marks)
 # multiply every element by 2 and assign it to new vector
 ## NOTE:  The other way of assignment.
 marks * 2 -> newMarks
+
+# NOTE how the vectors are printed
+> newMarks
+[1] 160 150 170
+
